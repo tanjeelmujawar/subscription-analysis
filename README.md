@@ -9,9 +9,9 @@
 # It also gave me a good idea of how businesses track churn and customer lifetime.
 
 
-# \*\*Author:\*\*  
+# Author:
 
-# \*\*Tanjeel Mujawar\*\*  
+# Tanjeel Mujawar  
 
 # Beginner Data Analyst | Learning Python and EDA  
 
